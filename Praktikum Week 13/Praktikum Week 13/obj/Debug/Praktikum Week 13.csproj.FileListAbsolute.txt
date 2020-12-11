@@ -1,0 +1,10 @@
+C:\Users\Michelle\source\repos\michellechandra-bot\TugasMichelle1\Praktikum Week 13\Praktikum Week 13\bin\Debug\Praktikum Week 13.exe.config
+C:\Users\Michelle\source\repos\michellechandra-bot\TugasMichelle1\Praktikum Week 13\Praktikum Week 13\bin\Debug\Praktikum Week 13.exe
+C:\Users\Michelle\source\repos\michellechandra-bot\TugasMichelle1\Praktikum Week 13\Praktikum Week 13\bin\Debug\Praktikum Week 13.pdb
+C:\Users\Michelle\source\repos\michellechandra-bot\TugasMichelle1\Praktikum Week 13\Praktikum Week 13\obj\Debug\Praktikum Week 13.csprojAssemblyReference.cache
+C:\Users\Michelle\source\repos\michellechandra-bot\TugasMichelle1\Praktikum Week 13\Praktikum Week 13\obj\Debug\Praktikum_Week_13.Form1.resources
+C:\Users\Michelle\source\repos\michellechandra-bot\TugasMichelle1\Praktikum Week 13\Praktikum Week 13\obj\Debug\Praktikum_Week_13.Properties.Resources.resources
+C:\Users\Michelle\source\repos\michellechandra-bot\TugasMichelle1\Praktikum Week 13\Praktikum Week 13\obj\Debug\Praktikum Week 13.csproj.GenerateResource.cache
+C:\Users\Michelle\source\repos\michellechandra-bot\TugasMichelle1\Praktikum Week 13\Praktikum Week 13\obj\Debug\Praktikum Week 13.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\source\repos\michellechandra-bot\TugasMichelle1\Praktikum Week 13\Praktikum Week 13\obj\Debug\Praktikum Week 13.exe
+C:\Users\Michelle\source\repos\michellechandra-bot\TugasMichelle1\Praktikum Week 13\Praktikum Week 13\obj\Debug\Praktikum Week 13.pdb
