@@ -1,0 +1,11 @@
+C:\Users\Michelle\source\repos\SAAAA\SAAAA\bin\Debug\SAAAA.exe.config
+C:\Users\Michelle\source\repos\SAAAA\SAAAA\bin\Debug\SAAAA.exe
+C:\Users\Michelle\source\repos\SAAAA\SAAAA\bin\Debug\SAAAA.pdb
+C:\Users\Michelle\source\repos\SAAAA\SAAAA\obj\Debug\SAAAA.csprojAssemblyReference.cache
+C:\Users\Michelle\source\repos\SAAAA\SAAAA\obj\Debug\SAAAA.Form1.resources
+C:\Users\Michelle\source\repos\SAAAA\SAAAA\obj\Debug\SAAAA.Form2.resources
+C:\Users\Michelle\source\repos\SAAAA\SAAAA\obj\Debug\SAAAA.Properties.Resources.resources
+C:\Users\Michelle\source\repos\SAAAA\SAAAA\obj\Debug\SAAAA.csproj.GenerateResource.cache
+C:\Users\Michelle\source\repos\SAAAA\SAAAA\obj\Debug\SAAAA.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\source\repos\SAAAA\SAAAA\obj\Debug\SAAAA.exe
+C:\Users\Michelle\source\repos\SAAAA\SAAAA\obj\Debug\SAAAA.pdb
